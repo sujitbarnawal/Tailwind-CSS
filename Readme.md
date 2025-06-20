@@ -1,7 +1,11 @@
-# Tailwind CSS
+🌬️ Tailwind CSS Project
 
-**1.A Google card is created
-**2.Basic Tailwind CSS concepts
-**3.concepts of hover and dark
-**4.Responsive Design (Mobile first approach) 
+✅ Google-style Card UI
+
+✅ Basic Tailwind CSS Concepts
+
+✅ Hover and Dark Mode Concepts
+
+✅ Responsive Design (Mobile-first approach)
+
 
